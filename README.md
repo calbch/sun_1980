@@ -1,5 +1,6 @@
-A Lush Theme for Neovim.
+1980s Sun
 ===
 
-See: http://git.io/lush.nvim for more information on Lush and a helper script
-to setup your repo clone.
+Inspired by [this tweet](https://x.com/usgraphics/status/1803481619090776557) from [United States Graphics Company](https://x.com/usgraphics).
+
+Build with: http://git.io/lush.nvim
